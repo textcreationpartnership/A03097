@@ -36,9 +36,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The famous hystory of Herodotus Conteyning the discourse of dyuers countreys, the succession of they
+
+1. To the right excellent and vertuous Gentleman Mayster Robert Dormer, ſonne to the noble Knight Sir Wyllyam Dormer, B. R. vvisheth increaſe of vvorship, vvith the fauoure of GOD.
+
+1. To the Gentlemen Readers.
+
 #####Body#####
-The famous hystory of Herodotus Conteyning the discourse of dyuers countreys, the succession of they
+
+1. HER ODOTVS HIS FIRST BOOKE INTITLED CLIO.
+
+1. Herodotus his ſecond Booke entituled Euterpe.
+
 **Types of content**
 
   * There are 80 **verse** lines!
